@@ -8,5 +8,9 @@ I added a "for loop" that ensures the password is random. I also had to create a
 
 #### Links 
 [GitHub Repo] (https://github.com/JLopez1227/password-generator)
-[Deployed Application] ()
+[Deployed Application] (https://jlopez1227.github.io/password-generator/)
+
+#### Preview 
+The following image shows the web application's appearance and it's functionality: ![Preview of Website(Desktop)](Screenshot%202023-03-27%20232325.png)
+
 
